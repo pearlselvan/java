@@ -1,2 +1,3 @@
 file1
 added from new branch
+added from new 
