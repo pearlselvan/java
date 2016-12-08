@@ -1,5 +1,0 @@
-file2
-step 2 from master
-step 3 from master
-step 4 from master
-step 6 revert 2 
